@@ -1,0 +1,10 @@
+{
+  "name": "node-test-app",
+  "version": "1.0.0",
+  "description": "Minimal Node.js HTTP test app with Dockerfile",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
